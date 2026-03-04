@@ -1,249 +1,92 @@
 <h1 align="center">
-  <a href="https://pnp.github.io/cli-microsoft365">
-    <img alt="CLI for Microsoft 365" src="./docs/docs/images/pnp-cli-microsoft365-blue.svg" height="78">
+  <a href="https://github.com/tu-usuario/asdplus-io-board">
+    <img alt="I/O Board ASD+" src="data:image/png;base64,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" height="78">
   </a>
-  <br>CLI for Microsoft 365<br>
+  <br>I/O Board para Equipo ASD+<br>
 </h1>
 
 <h4 align="center">
-  One CLI for Microsoft 365
+  Placa de expansión de Entradas/Salidas diseñada en KiCad
 </h4>
 
 <p align="center">
-  <a href="https://aka.ms/cli-m365/discord">
-    <img src="https://img.shields.io/badge/Discord-aka.ms/cli--m365/discord-7289da?style=flat-square"
-      alt="Discord" />
+  <a href="https://github.com/tu-usuario/asdplus-io-board">
+    <img src="https://img.shields.io/badge/KiCad-6.0%2B-FF6B6B?style=flat-square&logo=kicad&logoColor=white"
+      alt="KiCad" />
   </a>
 
-  <a href="https://bsky.app/profile/climicrosoft365.bsky.social">
-    <img src="https://img.shields.io/badge/Bsky-%40climicrosoft365.bsky.social-208bfe?style=flat-square"
-      alt="Bluesky" />
+  <a href="https://github.com/tu-usuario/asdplus-io-board/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-00D1B2?style=flat-square"
+      alt="License" />
   </a>
 
-  <a href="https://x.com/climicrosoft365">
-    <img src="https://img.shields.io/badge/X-%40climicrosoft365-blue?style=flat-square"
-      alt="X" />
+  <a href="https://github.com/tu-usuario/asdplus-io-board/actions">
+    <img src="https://img.shields.io/badge/PCB-Ready%20to%20Fab-4ECDC4?style=flat-square"
+      alt="Status" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/pnp/cli-microsoft365/actions?query=workflow%3A%22Release+next%22">
-    <img src="https://github.com/pnp/cli-microsoft365/workflows/Release%20next/badge.svg"
-      alt="GitHub" />
+  <a href="https://github.com/tu-usuario/asdplus-io-board/actions?query=workflow%3A%22Release%22">
+    <img src="https://img.shields.io/badge/Release-v1.0-blue?style=flat-square"
+      alt="Release" />
   </a>
   
-  <a href="https://www.npmjs.com/package/@pnp/cli-microsoft365">
-    <img src="https://img.shields.io/npm/v/@pnp/cli-microsoft365/latest?style=flat-square"
-      alt="npm @pnp/cli-microsoft365@latest" />
+  <a href="https://github.com/tu-usuario/asdplus-io-board">
+    <img src="https://img.shields.io/badge/version-1.0.0-green?style=flat-square"
+      alt="Version" />
   </a>
 
-  <a href="https://www.npmjs.com/package/@pnp/cli-microsoft365">
-    <img src="https://img.shields.io/npm/v/@pnp/cli-microsoft365/next?style=flat-square"
-      alt="npm @pnp/cli-microsoft365@next" />
-  </a>
-</p>
-
-<p align="center">CLI for Microsoft 365 helps you manage your Microsoft 365 tenant and SharePoint Framework projects.</p>
-
-<p align="center">
-  <a href="https://pnp.github.io/cli-microsoft365">Website</a> |
-  <a href="#features">Features</a> |
-  <a href="#install">Install</a> |
-  <a href="#usage">Usage</a> |
-  <a href="#build">Build</a> |
-  <a href="#contribute">Contribute</a>
-</p>
-<p align="center">
-  <a href="https://github.com/pnp/cli-microsoft365/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a> | 
-  <a href="#need-help">Need help?</a> |
-  <a href="#disclaimer">Disclaimer</a>
-</p>
-<p align="center">
-  <a href="#microsoft-365--power-platform-community">Microsoft 365 & Power Platform Community</a>
-</p>
-<p align="center">
-  <img alt="CLI for Microsoft 365" src="./docs/docs/images/cli-microsoft365.gif" style="max-height: 500px;max-width: 100%;height: auto;width: auto;object-fit: contain;" />
-</p>
-
-## Features
-
-- Run on any OS
-  - Linux
-  - MacOS
-  - Windows
-- Run on any shell
-  - Azure Cloud Shell
-  - bash
-  - cmder
-  - PowerShell
-  - zsh
-- Unified login
-  - Access all your Microsoft 365 workloads
-- Supported workloads
-  - Bookings
-  - Microsoft Entra ID
-  - Microsoft Teams
-  - Microsoft To Do
-  - Microsoft Viva
-  - OneDrive
-  - OneNote
-  - Outlook
-  - Planner
-  - Power Automate
-  - Power Apps
-  - Power Platform
-  - Purview
-  - SharePoint Embedded
-  - SharePoint Online
-  - SharePoint Premium
-  - To Do
-- Supported authentication methods
-  - Azure Managed Identity
-  - Certificate
-  - Client Secret
-  - Device Code
-  - Federated identity
-  - Username and Password
-- Manage your SharePoint Framework projects
-  - Upgrade your projects
-  - Check your environment compatibility
-
-> Follow our [Bluesky](https://bsky.app/profile/climicrosoft365.bsky.social), or [X](https://x.com/climicrosoft365) account to keep yourself updated about new features, improvements, and bug fixes.
-
-## Install
-
-To use the CLI for Microsoft 365 you need [`Node.js`](https://nodejs.org). The CLI has been tested with Node.js versions 20 and higher, but we recommend you to use the Node.js LTS version available at the moment.
-
-```
-npm install -g @pnp/cli-microsoft365
-```
-
-<details>
-  <summary>Install beta version β</summary>
-
-  ```
-  npm install -g @pnp/cli-microsoft365@next
-  ```
-</details>
-
-<details>
-  <summary>Alternate package managers 🧶</summary>
-
-  ### yarn
-
-  ```
-  yarn global add @pnp/cli-microsoft365
-  ```
-
-  ### npx
-
-  ```
-  npx @pnp/cli-microsoft365
-  ```
-</details>
-
-<details>
-  <summary>Run CLI for Microsoft 365 in a Docker container 🐳</summary>
-
-  ```
-  docker run --rm -it m365pnp/cli-microsoft365:latest
-  ```
-
-  Checkout our [guide](https://pnp.github.io/cli-microsoft365/user-guide/run-cli-in-docker-container/) to learn more about how to run CLI for Microsoft 365 using Docker
-</details>
-
-## Usage
-
->Before logging in, you should create a custom Microsoft Entra application registration. Use the `m365 setup` command or refer to the [Using your own Microsoft Entra identity](https://pnp.github.io/cli-microsoft365/user-guide/using-own-identity/) guide.
-
-Use the `login` command to start the Device Code login flow to authenticate with your Microsoft 365 tenant.
-
-```sh
-m365 login
-```
-
->For alternative authentication methods and usage, refer to the [login](https://pnp.github.io/cli-microsoft365/cmd/login/) command documentation
-
-List all commands using the global `--help` option.
-
-```sh
-m365 --help
-```
-
-Get command information and example usage using the global `--help` option.
-
-```sh
-m365 spo site get --help
-```
-
-Execute a command and output response as JSON.
-
-```sh
-m365 spo site get --url https://contoso.sharepoint.com
-```
-
-Filter responses and return custom objects using [JMESPath](https://jmespath.org/) queries using the global `--query`  option.
-
-```sh
-m365 spo site list --query '[?Template==`GROUP#0`].{Title:Title, Url:Url}'
-```
-
-Execute a command and output response as text using the global `--output` option.
-
-```sh
-m365 spo site get --url https://contoso.sharepoint.com --output text
-```
-
-> For more examples and usage, refer to the [command](https://pnp.github.io/cli-microsoft365/cmd/login/) and  [sample scripts](https://pnp.github.io/cli-microsoft365/sample-scripts/introduction/) documentation.
-
-## Build
-
-To build and run this CLI locally, you will need [`node`](https://nodejs.org) `>= 24.0.0` installed.
-
-```sh
-# Clone this repository
-$ git clone https://github.com/pnp/cli-microsoft365
-
-# Go into the repository
-$ cd cli-microsoft365
-
-# Install dependencies
-$ npm install
-
-# Build the CLI
-$ npm run build
-
-# Symlink your local CLI build
-$ npm link
-```
-
-When you execute any `m365` command from the terminal, it will now use your local clone of the CLI.
-
-## Contribute
-
-We love to accept contributions.
-
-If you want to get involved with helping us grow the CLI, whether that is suggesting or adding a new command, extending an existing command, or updating our documentation, we would love to hear from you.
-
-Check out our [Contributing Guide](https://pnp.github.io/cli-microsoft365/contribute/contributing-guide) for detailed information on how to contribute to this project.
-
-## Need Help?
-
-<h4 align="center">
-  Join our community
-</h4>
-<p align="center">
-  <a href="https://aka.ms/cli-m365/discord">
-    <img alt="Discord" src="./docs/docs/images/discord-logo.png" width="100"/>
+  <a href="https://github.com/tu-usuario/asdplus-io-board">
+    <img src="https://img.shields.io/badge/status-active-success?style=flat-square"
+      alt="Status" />
   </a>
 </p>
 
-## Microsoft 365 & Power Platform Community
+<p align="center">Interfaz robusta para conectar sensores y actuadores al mundo físico del sistema ASD+.</p>
 
-CLI for Microsoft 365 is a [Microsoft 365 & Power Platform Community](https://pnp.github.io) (PnP) project. Microsoft 365 & Power Platform Community is a virtual team consisting of Microsoft employees and community members focused on helping the community make the best use of Microsoft products. CLI for Microsoft 365 is an open-source project not affiliated with Microsoft and not covered by Microsoft support. If you experience any issues using the CLI, please submit an issue in the [issues list](https://github.com/pnp/cli-microsoft365/issues).
+<p align="center">
+  <a href="https://github.com/tu-usuario/asdplus-io-board">Repositorio</a> |
+  <a href="#características">Características</a> |
+  <a href="#instalación">Instalación</a> |
+  <a href="#uso">Uso</a> |
+  <a href="#fabricación">Fabricación</a> |
+  <a href="#contribuir">Contribuir</a>
+</p>
+<p align="center">
+  <a href="https://github.com/tu-usuario/asdplus-io-board/blob/main/CODE_OF_CONDUCT.md">Código de Conducta</a> | 
+  <a href="#ayuda">¿Ayuda?</a> |
+  <a href="#aviso-legal">Aviso Legal</a>
+</p>
+<p align="center">
+  <a href="#equipo-asd">Equipo ASD+</a>
+</p>
+<p align="center">
+  <img alt="I/O Board ASD+" src="https://via.placeholder.com/800x400?text=Render+3D+de+la+PCB+I/O+ASD+" style="max-height: 500px;max-width: 100%;height: auto;width: auto;object-fit: contain;" />
+</p>
 
-## Disclaimer
+## Características
 
-**THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+- **Entradas (Inputs)**
+  - 4x Digitales - Ópticamente aisladas, 5-24V
+  - 2x Analógicas - 0-10V / 4-20mA seleccionable
+  - 2x Interrupción - Entradas rápidas para encoders
+- **Salidas (Outputs)**
+  - 4x Relés - Contactos NA/NC, 2A máx
+  - 4x Digitales - Salidas por transistor MOSFET
+  - 2x PWM - Señales moduladas para control fino
+- **Comunicación**
+  - Bus ASD+ - Conector dedicado de 10 pines
+  - I2C / SPI - Headers de expansión
+- **Alimentación**
+  - 12V - 24V DC con protección
+  - Temperatura de operación: -20°C a +85°C
+- **Software**
+  - KiCad 6.0 / 7.0
+  - PCB de 2 capas - FR4 estándar
 
-![telemetry](https://telemetry.sharepointpnp.com/cli-microsoft365/readme)
+> Sigue este repositorio para mantenerte actualizado sobre nuevas versiones, mejoras y correcciones.
+
+## Instalación
+
+Para usar este diseño necesitas tener [`KiCad`](https://www.kicad.org/) instalado. El proyecto ha sido probado con KiCad versiones 6.0 y superiores.
