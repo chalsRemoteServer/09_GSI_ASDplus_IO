@@ -1,0 +1,27 @@
+# I/O Board para Equipo ASD+
+
+Placa de expansión de Entradas/Salidas (I/O) diseñada en **KiCad** para el sistema **ASD+**. Proporciona una interfaz robusta para conectar sensores y actuadores.
+
+* * *
+
+## ✨ Características Principales
+
+*   **Entradas:**
+    *   4x Digitales (ópticamente aisladas, 5-24V)
+    *   2x Analógicas (0-10V / 4-20mA seleccionable)
+*   **Salidas:**
+    *   4x Relés (contactos NA/NC, 2A máx)
+    *   4x Digitales por transistor (MOSFET)
+*   **Comunicación:** Bus propietario ASD+, headers I2C/SPI.
+*   **Alimentación:** 12V - 24V DC con protección.
+
+* * *
+
+## 🚀 Cómo Usar Este Repositorio
+
+### Opción 1 - Ver el Diseño (Recomendado para revisión)
+
+  1. Asegúrate de tener **KiCad 6.0 o superior** instalado.
+  2. Clona el repositorio:
+     ```sh
+     git clone https://github.com/tu-usuario/asdplus-io-board.git
