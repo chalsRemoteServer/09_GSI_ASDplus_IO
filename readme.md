@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/tu-usuario/asdplus-io-board">
-    <img alt="I/O Board ASD+" src="data:image/png;base64,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" height="78">
+    <img alt="I/O Board ASD+" src="https://www.gracida.com/wp-content/uploads/2023/12/gracida-min-300x100.png" height="78">
   </a>
   <br>I/O Board para Equipo ASD+<br>
 </h1>
@@ -62,7 +62,7 @@
   <a href="#equipo-asd">Equipo ASD+</a>
 </p>
 <p align="center">
-  <img alt="I/O Board ASD+" src="https://via.placeholder.com/800x400?text=Render+3D+de+la+PCB+I/O+ASD+" style="max-height: 500px;max-width: 100%;height: auto;width: auto;object-fit: contain;" />
+  <img alt="I/O Board ASD+" src="https://raw.githubusercontent.com/adafruit/Adafruit-Feather-PCB/master/Feather_3D.png" style="max-height: 500px;max-width: 100%;height: auto;width: auto;object-fit: contain;" />
 </p>
 
 ## Características
